@@ -1,4 +1,4 @@
-package com.flamy.waterapp.ui.home
+package com.flamy.waterapp.presentation.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
